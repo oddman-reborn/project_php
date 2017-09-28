@@ -1,0 +1,38 @@
+*{margin: 0; padding :0}
+body{font-family:Arial;font-size:14px;
+	 color:black}
+	
+	
+	.main{margin:20px auto;display:block;overflow:hidden;}
+	.header{}
+	
+	
+	
+	.mainmenu{overflow:hidden}
+	.mainmenu ul{margin:0;padding:0;list-style:none}
+	.mainmenu ul li{float:left;border-right:1px solid #ddd}
+	.mainmenu ul li a{display:block;background:#128E73;color:black;padding:12px 25px;text-decoration:none} 
+	.mainmenu ul li a:hover{	background-color: #60bb46;}
+		
+		
+	
+	.sidebar{float:right;width:280;margin-top:20px;}
+	.sidebar ul{list-style:none}
+	.sidebar ul li{padding:5px ;margin:10px;border-bottom:1px solid #B2B9BF;}
+	.sidebar ul li a{text-decoration:none;color:#000;margin-top:5px;}
+	
+	
+	
+	.content{float:left;width:950px;margin:20px;background-color:#669999;color:#77022B;border-right:20px;}
+		.content p{margin-left:15px;}
+		.content  li{float:left;padding: 15px 50px;list-style:none;}
+		.content ul li a{text-decoration:none;}
+		.content ul{float:top;}
+		.content h3{float:right;padding:5px ;margin:10px;}
+		
+		table{border-collapse:collapse;color:red}
+		table,th,td{color:#006666;background:#DEE3F3;width:950px;}
+	.content h2{margin-bottom:15px;}
+	
+	footer{background:#3F3F3F;color:white;margin-top:20px;padding:5px;}
+	
